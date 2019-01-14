@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">zhangshus</string>
+    <string name="app_ltext">京东登录</string>
+    <string name="app_zhanghao">账号</string>
+    <string name="app_login">登录</string>
+    <string name="app_sm">请输入你要扫描的内容</string>
+    <string name="app_sc">点击生成二维码</string>
+    <string name="app_dj">点击扫描</string>
+</resources>
